@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+ultralytics
+playsound
+mutagen
+time
+miniaudio
+flask

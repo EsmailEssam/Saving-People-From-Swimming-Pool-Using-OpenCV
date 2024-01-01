@@ -1,1 +1,1 @@
-# Saving-People-From-Swimming-Pool-Using-OpenCV
+# Saving-People-From-Swimming-Pool-Using-YOLOv8
